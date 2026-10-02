@@ -1,0 +1,17 @@
+{
+  "name": "ai-staff",
+  "version": "1.0.0",
+  "description": "Aisha - AI Receptionist for WhatsApp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "openai": "^4.20.1",
+    "axios": "^1.6.2",
+    "body-parser": "^1.20.2"
+  }
+}
